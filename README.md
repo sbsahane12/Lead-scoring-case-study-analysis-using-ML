@@ -1,4 +1,4 @@
-# [Project  10:Lead scoring case study analysis using ML](https://github.com/sbsahane12/Machine-Learning-Projects-for-2023.git) 
+# [Project  10:Lead scoring case study analysis using ML](https://github.com/sbsahane12/Lead-scoring-case-study-analysis-using-ML.git) 
 ## Problem Statement  
 ### Background  - Business Understanding   
 - Building Logistic regression model & assigning Lead Scores to the prospective candidates of X Education
